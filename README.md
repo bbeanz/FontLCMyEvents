@@ -3,8 +3,8 @@ Lightning Community My Events and My Past Events Listings with direct links to M
 
 Pre-requisites:
 1) Fonteva Installed
-2) Datatable installed from UnofficialSF
-3) Redirect installed from UnofficialSF
+2) Datatable installed from UnofficialSF: https://unofficialsf.com/datatable-lightning-web-component-for-flow-screens-2/
+3) OpenURL installed from UnofficialSF: https://unofficialsf.com/new-ways-to-open-web-pages-from-flow/
 4) Enable permission for Community Users Profile to run Flows
 
 Outline:
@@ -19,4 +19,4 @@ Installation:
 6) Create a bunch of test bookings for a known Contact (both past and future)
 7) Log into Community as known User
 8) Visit the new "My events" page and test functionlaity
-9) In Setup open the 2 screenflows and adjust settings as necessary
+9) In Setup open the 2 screenflows and adjust configuration as necessary to meet business requirements
