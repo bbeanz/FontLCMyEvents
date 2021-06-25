@@ -20,3 +20,6 @@ Installation:
 7) Log into Community as known User
 8) Visit the new "My events" page and test functionlaity
 9) In Setup open the 2 screenflows and adjust configuration as necessary to meet business requirements
+
+Screenshot:
+![Example Screen 1](https://github.com/bbeanz/FontLCMyEvents/blob/master/Screenshot%202021-06-25%20at%2017.09.35.png)
